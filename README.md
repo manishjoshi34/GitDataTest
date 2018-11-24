@@ -1,2 +1,2 @@
 # GitDataTest
-for testing
+Hello, Learning Git commands
