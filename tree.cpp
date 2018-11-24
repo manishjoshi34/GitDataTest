@@ -35,6 +35,6 @@ int main(){
 	head=head->addNode(1,head);
 	head=head->addNode(2,head);
 head->printList(head);
-cout<<"testing vim"<<endl;
+cout<<"testing vim from git"<<endl;
 return 0;
 }
